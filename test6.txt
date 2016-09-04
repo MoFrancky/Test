@@ -1,0 +1,25 @@
+first caca
+second caca
+third caca
+fourth caca
+last caca
+append after last caca
+new caca in test2.txt
+EOF
+first caca
+second caca
+third caca
+fourth caca
+last caca
+append after last caca
+new caca in test2.txt
+EOF
+adiogj
+açsoidfh
+cacaboudinpisse
+append after last line
+first line
+fourth line
+last line
+second line
+third line

@@ -1,0 +1,2 @@
+new line in test2.txt
+EOF

@@ -1,0 +1,8 @@
+first line
+second line
+third line
+fourth line
+last line
+append after last line
+new line in test2.txt
+EOF
